@@ -93,4 +93,4 @@ This project is implemented in Python and executed within a single Jupyter Noteb
 
 ## 📞 Contact
 
-**Onur YERLİKAYA**
+**Onur YERLİKAYA** **->** **yrlkyaonur@gmail.com**
